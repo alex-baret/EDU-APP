@@ -1,0 +1,339 @@
+[
+   {
+      "title":"Scratched Knees",
+      "stepsText":[
+         "First you have to clean the wound using some kind of cleaning methods like Hydrogen Peroxide, Rubbing Alcohol, or soap and water",
+         "Next, tap a bit of Neosporin on the scratch. Neosporin is an antibiotic gel to prevent infection.",
+           "Finally, apply a band-aid to shield debris and cover the wound."
+      ],
+      "teachText":[
+         "What are antibiotics?",
+           "Antibiotics are medicines that fight infections caused by bacteria",
+         "Topical antibacterials, like neosporin, are a class of medications used to prevent and treat infections caused by bacteria and minor skin infections caused by cuts, scrapes, and burns.",
+         "Make sure you sterilize your cut to further protect against infection!"
+        ],
+      "symptomsList":[
+         "Skinned knees can sting or hurt.",
+         "They may look bright red with scraped areas.",
+         "They may have the appearance of an open wound.",
+         "They may also bleed."
+      ],
+      "validTreatments":[
+         "hydrogen-peroxide",
+         "neosporin",
+           "band-aid"
+      ],
+      "patientStagesImages":[
+           ["SK1", ":Stages/SK1"],
+           ["SK2", ":Stages/SK2"],
+           ["SK3", ":Stages/SK3"],
+           ["H", ":Stages/SK4"]
+      ],
+      "stepsImages":[
+           ["hydrogen-peroxide", ":medicines/hydrogen-peroxide"],
+           ["neosporin", ":medicines/neosporin"],
+           ["band-aid", ":medicines/band-aid"]
+      ],
+      "teachImages":[
+           ["neosporin", ":medicines/neosporin"]
+      ],
+      "medicineToStage":[
+           ["hydrogen-peroxide", "SK2"],
+           ["neosporin", "SK3"],
+           ["band-aid", "H"]
+      ],
+      "inOrder": true
+   },
+   {
+      "title":"Headache",
+      "stepsText":[
+         "Drinking water is vital to remedy a headache.",
+         "A cold pack can help reduce headache.",
+           "Pain medication is helpful for temporary relief when you have a headache.",
+           "Acetaminophen or Ibuprofen will work."
+      ],
+      "teachText":[
+         "Pain Medication",
+         "Ibuprofen and Acetaminophen are commonly used for pain relief from a headache. Ibuprofen will target feelings of tension while Acetaminophen will more generally reduce feelings of pain.",
+           "Headache Causes",
+           "There is a huge variety of headaches that can be caused by a multitude of stimuli and conditions. Many headaches target a specific region of the head and can be diagnosed and treated more specifically."
+      ],
+      "symptomsList":[
+      "Slow onset of the headache.",
+      "Head usually hurts on both sides.",
+      "Pain is dull or feels like a band or vice around the head.",
+      "Pain may involve the back part of the head or neck.",
+      "Pain is mild to moderate, but not severe."
+      ],
+      "validTreatments":[
+         "water",
+         "cold-pack",
+           "ibuprofen",
+           "acetaminophen"
+      ],
+      "patientStagesImages":[
+           ["HA1", ":Stages/HA1"],
+           ["HA2", ":Stages/HA2"],
+           ["HA3", ":Stages/HA3"],
+           ["H", ":/medicines/patient-basic"]
+      ],
+      "stepsImages":[
+           ["water", ":medicines/water"],
+           ["cold-pack", ":medicines/cold-pack"],
+           ["ibuprofen", ":medicines/ibuprofen"],
+           ["acetaminophen", ":medicines/acetaminophen"]
+      ],
+      "teachImages":[
+           ["ibuprofen", ":medicines/ibuprofen"],
+           ["acetaminophen", ":medicines/acetaminophen"]
+      ],
+      "medicineToStage":[
+           ["none", "none"]
+      ],
+      "inOrder": false
+   },
+   {
+      "title":"Sprained Ankle",
+      "stepsText":[
+         "The first steps to treating a sprained ankle is to apply ice or something cold to reduce swelling and inflammation.",
+         "Second, compress the ankle using a compression wrap to help decrease swelling and provide stability to the ankle by immobilizing it.",
+           "Finally, take pain medication to get rid of pain. Ibuprofen is used most for swelling and inflammation."
+      ],
+      "teachText":[
+         "What is R.I.C.E.?",
+         "R.I.C.E. stands for rest, ice, compression, and elevation, and taking these simple steps following a strain, sprain, or other similar injury can help you more quickly recover and get back to everyday activities.",
+         "Anti-inflammatory Medication",
+           "Anti-inflammatory drugs can help reduce inflammation, which often helps to relieve pain. A common example is ibuprofen (Advil, Motrin, Midol) or naproxen (Aleve, Naprosyn).",
+           "You probably have some of these in your cupboads at home!"
+        ],
+      "symptomsList":[
+      "Pain, especially when you bear weight on the affected foot.",
+      "Tenderness when you touch the ankle.",
+      "Swelling.",
+      "Bruising.",
+      "Restricted range of motion.",
+      "Instability in the ankle."
+      ],
+      "validTreatments":[
+         "cold-pack",
+         "bandage",
+           "ibuprofen"
+      ],
+      "patientStagesImages":[
+           ["SA1", ":Stages/SA1"],
+           ["SA2", ":Stages/SA2"],
+           ["SA3", ":Stages/SA3"],
+           ["H", ":Stages/SA4"]
+      ],
+      "stepsImages":[
+           ["cold-pack", ":medicines/cold-pack"],
+           ["bandage", ":medicines/bandage"],
+           ["ibuprofen", ":medicines/ibuprofen"]
+      ],
+      "teachImages":[
+           ["ibuprofen", ":medicines/ibuprofen"],
+           ["cold-pack", ":medicines/cold-pack"]
+      ],
+      "medicineToStage":[
+           ["cold-pack", "SA2"],
+           ["bandage", "SP3"],
+           ["ibuprofen", "H"]
+      ],
+      "inOrder": true
+   },
+   {
+      "title":"Seasonal Allergy",
+      "stepsText":[
+         "Allergy medicine is the first step in reducing the symptoms of seasonal allergy.",
+         "Nasal spray can then be used to decongest the nose and limit irritation.",
+           "Finally, wearing a mask prevents many of the allergy triggers from entering your body in the first place."
+      ],
+      "teachText":[
+         "Allergy Medicine",
+         "Allergy Medicine typically use antihistamines which work by blocking the effects of histamine, the substance in your body responsible for most allergy symptoms.",
+           "Pollen Regulation",
+           "Seasonal allergies are caused by airborne substances such as pollen. Standard surgical masks can filter particles larger than 3 microns. These masks should suffice to filter most pollen which is typically 10 microns or larger."
+      ],
+      "symptomsList":[
+         "Congestion and nasal stuffiness",
+           "Coughing",
+           "Fatigue",
+           "Headache",
+           "Itchy throat, nose and eyes",
+           "Runny nose and sneezing",
+           "Sinus pressure around the nose and cheeks",
+           "Sore throat aggravated by mucus"
+      ],
+      "validTreatments":[
+         "mask",
+         "allergy",
+         "nasal-spray"
+      ],
+      "patientStagesImages":[
+           ["A1", ":Stages/A1"],
+           ["A2", ":Stages/A2"],
+           ["A3", ":Stages/A3"],
+           ["H", ":Stages/A4"]
+      ],
+      "stepsImages":[
+           ["allergy", ":medicines/allergy"],
+           ["nasal-spray", ":medicines/nasal-spray"],
+           ["mask", ":medicines/mask"]
+      ],
+      "teachImages":[
+           ["mask", ":medicines/mask"],
+           ["allergy", ":medicines/allergy"],
+           ["nasal-spray", ":medicines/nasal-spray"]
+      ],
+      "medicineToStage":[
+           ["allergy", "A2"],
+           ["nasal-spray", "A3"],
+           ["mask", "H"]
+      ],
+      "inOrder": true
+   },
+   {
+      "title":"Flu",
+      "stepsText":[
+         "When you have the flu make sure you have plenty of fluids. Because you are losing so much water vomiting, sweating, etc. it is important to stay hydrated so your body can better fight the flu.",
+         "To help with flu symptoms, use the medication acetaminophen. Acetaminophen seems to work on the parts of the brain that perceive pain and control body temperature. A common example is Tylenol.",
+         "A common symptom of the flu is a cough and sore throat. A cough drop, also known as a throat lozenge, is a medicated tablet intended to be dissolved slowly in the mouth to temporarily stop coughs, lubricate, and soothe irritated tissues of the throat.",
+         "To combat the symptom of a fever, apply cold pack to forehead to reduce heat."
+      ],
+      "teachText":[
+         "Bed Rest",
+         "The best thing that treats the flu is rest and time.",
+         "The best thing you can do when you feel any of these symptoms is get some rest and sleep it off over the course of a few days.",
+         "The flu typically last around 5-7 days. Avoid getting the flu by getting seasonal vaccines."
+      ],
+      "symptomsList":[
+         "Fever",
+         "Chills",
+         "Cough",
+         "Headache",
+         "Fatigue",
+         "Nausea"
+      ],
+      "validTreatments":[
+         "water",
+         "acetaminophen",
+         "cough-drops",
+         "cold-pack"
+      ],
+      "patientStagesImages":[
+           ["SF1", ":Stages/SF1"],
+           ["SF2", ":Stages/SF2"],
+           ["SF3", ":Stages/SF3"],
+           ["SF4", ":Stages/SF4"],
+           ["H", ":/medicines/patient-basic"]
+      ],
+      "stepsImages":[
+           ["water", ":medicines/water"],
+           ["acetaminophen", ":medicines/acetaminophen"],
+           ["cough-drops", ":medicines/cough-drops"],
+           ["cold-pack", ":medicines/cold-pack"]
+      ],
+      "teachImages":[
+           ["water", ":medicines/water"],
+           ["cold-pack", ":medicines/cold-pack"]
+      ],
+      "medicineToStage":[
+           ["water", "SF2"],
+           ["acetaminophen", "SF3"],
+           ["cough-drops", "SF4"],
+           ["cold-pack", "H"]
+      ],
+      "inOrder": true
+   },
+   {
+      "title":"Stomach Ache",
+      "stepsText":[
+         "To combat indigestion you can take an anti-gas medication such as Pepto Bismol. Pepto works by protecting your stomach and the lower part of your food pipe from stomach acid.",
+         "Make sure to drink water. Symptoms of stomach ache include diarieha and vomiting. It is important to stay hydrated so your body can better fight the flu.",
+         "Try putting a heating pad or hot towel on your abdomen. The heat can help relax the muscles and relieve cramping."
+      ],
+      "teachText":[
+         "BRAT Diet",
+         "It is important to keep your energy up when you are sick, but most of the time you won't feel like eating.",
+         "But it can be hard to determine what to eat after throwing up or having diarrhea.",
+         "A special diet known as the BRAT diet (Bananas, Rice, Applesauce, and Toast) is an effective way to treat both."
+        ],
+      "symptomsList":[
+         "Indigestion",
+         "Constipation",
+         "Feeling sick",
+         "Vomiting",
+         "Diarrhea",
+         "Food poisoning"
+      ],
+      "validTreatments":[
+         "pepto-bismol",
+         "water",
+         "hot-pack"
+      ],
+      "patientStagesImages":[
+           ["ST1", ":Stages/ST1"],
+           ["ST2", ":Stages/ST2"],
+           ["ST3", ":Stages/ST3"],
+           ["H", ":/medicines/patient-basic"]
+      ],
+      "stepsImages":[
+           ["pepto-bismol", ":medicines/pepto-bismol"],
+           ["water", ":medicines/water"],
+           ["hot-pack", ":medicines/hot-pack"]
+      ],
+      "teachImages":[
+           ["banana", ":Extra/banana"],
+           ["toast", ":Extra/toast"]
+      ],
+      "medicineToStage":[
+           ["pepto-bismol", "ST2"],
+           ["water", "ST3"],
+           ["hot-pack", "H"]
+      ],
+      "inOrder": true
+   },
+   {
+      "title":"Sunburn",
+      "stepsText":[
+         "Spreading aloe vera gel over the burnt skin can help reduce inflammation and prevent peeling.",
+         "Taking Ibuprofen provides temporary pain relief.",
+         "Drinking water helps replace body fluids and replenish electrolytes drawn to the skin’s surface by a sunburn."
+      ],
+      "teachText":[
+         "Sun Protection/Sunscreen",
+         "When the sun is out, one should always apply some sort of sun protection before going outside. Failing to apply sun protection can result in sunburn. Overtime, overexposure to to the sun can cause premature wrinkling, aging of skin, age spots, and an increased risk of skin cancer."
+      ],
+      "symptomsList":[
+         "Red/hot skin",
+         "Pain",
+         "Blisters",
+         "Swelling of skin",
+         "Faintness"
+      ],
+      "validTreatments":[
+         "aloe-vera",
+         "ibuprofen",
+         "water"
+      ],
+      "patientStagesImages":[
+           ["SB1", ":Stages/SB1"],
+           ["SB2", ":Stages/SB2"],
+           ["SB3", ":Stages/SB3"],
+           ["H", ":/medicines/patient-basic"]
+      ],
+      "stepsImages":[
+           ["aloe-vera", ":medicines/aloe-vera"],
+           ["ibuprofen", ":medicines/ibuprofen"],
+           ["water", ":medicines/water"]
+      ],
+      "teachImages":[
+           ["sunscreen", ":Extra/sunscreen"],
+           ["water", ":medicines/water"]
+      ],
+      "medicineToStage":[
+           ["none", "none"]
+      ],
+      "inOrder": false
+   }
+]

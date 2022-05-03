@@ -1,0 +1,49 @@
+[
+   {   
+      "title":"Sprained Ankle",
+      "stepsText":[
+         "First you have to disinfect the wound using hydrogen peroxide.",
+         "Second you have to put on antibiotic get because..",
+	   "..."
+      ],
+      "teachText":[
+         "Pain Med Education",
+         "Ibuprofen: typically used for feverish pain."
+      ],
+      "symptomsList":[
+         "Pain",
+         "Trouble Breathing",
+	   "Fever"
+      ],
+      "validTreatments":[
+         "coldPack",
+         "ibuprofen",
+           "bandAid"
+      ],
+      "patientStagesImages":[
+           ["SP1", ":Stages/SK1"],
+           ["SP2", ":Stages/SK2"]
+      ],
+      "stepsImages":[
+	   ["ibuprofen", ":Medicines/ibuprofen"],
+	   ["hot-pack", ":Medicines/hot-pack"]
+      ],
+      "teachImages":[
+	   ["ibuprofen", ":Medicines/ibuprofen"],
+	   ["hot-pack", ":Medicines/hot-pack"]
+      ],
+      "medicineToStage":[
+	   ["ibuprofen", "SP1"],
+	   ["hot-pack", "SP2"]
+      ],
+      "inOrder": false
+   }
+]
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>mario.png</file>
+        <file>luigi</file>
+        <file>toad</file>
+        <file>peach</file>
+    </qresource>
+    <qresource prefix="/medicines">
+        <file>acetaminophen.png</file>
+        <file>allergy.png</file>
+        <file>aloe-vera.png</file>
+        <file>bandage.png</file>
+        <file>band-aid.png</file>
+        <file>cold-pack.png</file>
+        <file>cough-drops.png</file>
+        <file>hot-pack.png</file>
+        <file>hydrogen-peroxide.png</file>
+        <file>ibuprofen.png</file>
+        <file>level-small-bg.png</file>
+        <file>nasal-spray.png</file>
+        <file>neosporin.png</file>
+        <file>pepto-bismol.png</file>
+        <file>water.png</file>
+        <file>background</file>
+        <file>hot-pack2.png</file>
+        <file>patient-basic.png</file>
+        <file>mask.png</file>
+    </qresource>
+    <qresource prefix="/Stages">
+        <file>SA1.png</file>
+        <file>SA2.png</file>
+        <file>SA3.png</file>
+        <file>SA4.png</file>
+        <file>HA1.png</file>
+        <file>HA2.png</file>
+        <file>HA3.png</file>
+        <file>SK1.png</file>
+        <file>SK2.png</file>
+        <file>SK3.png</file>
+        <file>SK4.png</file>
+        <file>A1.png</file>
+        <file>A2.png</file>
+        <file>A3.png</file>
+        <file>A4.png</file>
+        <file>SB1.png</file>
+        <file>SB2.png</file>
+        <file>SB3.png</file>
+        <file>SF1.png</file>
+        <file>SF2.png</file>
+        <file>SF3.png</file>
+        <file>SF4.png</file>
+        <file>ST1.png</file>
+        <file>ST2.png</file>
+        <file>ST3.png</file>
+    </qresource>
+    <qresource prefix="/Extra">
+        <file>banana.png</file>
+        <file>sunscreen.png</file>
+        <file>toast.png</file>
+    </qresource>
+</RCC>
